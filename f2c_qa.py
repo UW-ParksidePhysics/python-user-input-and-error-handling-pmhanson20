@@ -10,3 +10,5 @@ input_temperature = float(input('Enter a temperature in degrees Fahrenheit: '))
 output_temperature = convert_fahrenheit_to_celsius(input_temperature)
 print(f'That temperature is {output_temperature} degrees Celsius')
 
+
+
